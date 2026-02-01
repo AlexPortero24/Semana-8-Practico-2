@@ -1,0 +1,14 @@
+C:\Users\David\Documents\ProyectosC#\ColaAsientos30\bin\Debug\net10.0\ColaAsientos30.exe
+C:\Users\David\Documents\ProyectosC#\ColaAsientos30\bin\Debug\net10.0\ColaAsientos30.deps.json
+C:\Users\David\Documents\ProyectosC#\ColaAsientos30\bin\Debug\net10.0\ColaAsientos30.runtimeconfig.json
+C:\Users\David\Documents\ProyectosC#\ColaAsientos30\bin\Debug\net10.0\ColaAsientos30.dll
+C:\Users\David\Documents\ProyectosC#\ColaAsientos30\bin\Debug\net10.0\ColaAsientos30.pdb
+C:\Users\David\Documents\ProyectosC#\ColaAsientos30\obj\Debug\net10.0\ColaAsientos30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\ProyectosC#\ColaAsientos30\obj\Debug\net10.0\ColaAsientos30.AssemblyInfoInputs.cache
+C:\Users\David\Documents\ProyectosC#\ColaAsientos30\obj\Debug\net10.0\ColaAsientos30.AssemblyInfo.cs
+C:\Users\David\Documents\ProyectosC#\ColaAsientos30\obj\Debug\net10.0\ColaAsientos30.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\ProyectosC#\ColaAsientos30\obj\Debug\net10.0\ColaAsientos30.dll
+C:\Users\David\Documents\ProyectosC#\ColaAsientos30\obj\Debug\net10.0\refint\ColaAsientos30.dll
+C:\Users\David\Documents\ProyectosC#\ColaAsientos30\obj\Debug\net10.0\ColaAsientos30.pdb
+C:\Users\David\Documents\ProyectosC#\ColaAsientos30\obj\Debug\net10.0\ColaAsientos30.genruntimeconfig.cache
+C:\Users\David\Documents\ProyectosC#\ColaAsientos30\obj\Debug\net10.0\ref\ColaAsientos30.dll
